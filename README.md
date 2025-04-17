@@ -12,7 +12,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=linnettuscano21.linnettuscano21&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=linnettuscano.linnettuscano&"  />
 </div>
 
 ###
@@ -23,13 +23,12 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-###
-
-<p align="left">I'm Linnet Tuscano, a Master's student in Computer Science at Syracuse University. <br><br>
-- 🔭 I’m currently working on contributing to Open Source Projects <br>
-- 📚 I'm learning LLMs, and Machine Learning models.<br>
-- ⚡ In my free time, I love working out, and capturing photos.<br>
-</p>
+<ul align="left">
+  <li>🎤 I’m contributing to open-source projects — recently to <a href="https://github.com/huggingface/transformers/pull/37255" target="_blank">Hugging Face</a>, where I improved the OpenAI GPT documentation.</li>
+  <li>💡 Passionate about backend, frontend, full-stack development, LLMs, vector search, and RAG.</li>
+  <li>📚 Currently exploring ML, CUDA programming, and AI infrastructure.</li>
+  <li>⚡ In my free time, I enjoy working out and capturing moments through photography.</li>
+</ul>
 
 ###
 
@@ -51,4 +50,17 @@
 </div>
 
 
+
 ###
+
+
+![](https://github-readme-stats.vercel.app/api?username=linnettuscano&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linnettuscano&layout=compact&theme=dark&hide_border=true)
+
+[![Linnet's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linnettuscano&theme=github-dark)](https://github.com/linnettuscano)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=linnettuscano&theme=darkhub&no-frame=true&column=7)
+
+
+
